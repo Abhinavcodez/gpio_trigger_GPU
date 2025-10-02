@@ -66,8 +66,11 @@ sudo ./user_app 2
 
 ## 📊 Example Output
 [CUDA] Device 0: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+
 gpu_trigger_user: running for mode 1
+
 [Driver result] GPU computation done! jiffies=4299973232
+
 [CUDA] N=1048576 sample: C[0]=0.000000, C[1048575]=0.000000
 
 ---
